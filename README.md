@@ -1,3 +1,3 @@
 # mystory-appel
 Page appel MYSTORY - deploiement Vercel statique.
-Deploy: v2
+Deploy: v3 (pont GitHub-Vercel)
